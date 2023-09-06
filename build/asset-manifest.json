@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b773b18d.css",
+    "main.js": "/static/js/main.835dca3f.js",
+    "static/media/logo.png": "/static/media/logo.337ad1e8c8f96e79cc7b.png",
+    "static/media/OPTICopperplate.otf": "/static/media/OPTICopperplate.06d92876f6b4f12f51a3.otf",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/profile_temp.png": "/static/media/profile_temp.16fc9a0d40edf64da56c.png",
+    "static/media/announcement.png": "/static/media/announcement.16597cd715826f8f07dc.png",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b773b18d.css",
+    "static/js/main.835dca3f.js"
+  ]
+}
